@@ -1,6 +1,6 @@
 const config = {
   background: "https://cdn.phototourl.com/free/2026-07-30-bc8a3c06-b3d5-4d42-b3bc-74ab17a65634.jpg",
-  profile: "https://cdn.phototourl.com/free/2026-07-30-a0a759a7-7bee-497e-9508-ab38a8b3d955.jpg",
+  profile: "https://cdn.phototourl.com/free/2026-07-30-fe65602b-9bec-4296-817a-168279ac1daf.jpg",
   whatsapp: "https://tapthelink.cfd/yQzJt",
   telegram: "https://tapthelink.cfd/yQzJt",
   minOnline: 700,
